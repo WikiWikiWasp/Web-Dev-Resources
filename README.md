@@ -11,6 +11,7 @@ A simple list of resources that might be useful to us (TXST CS students) since t
 - [CSS-Tricks][5] *(recommended by @petercassetta)*
 - [Mozilla's WebDev Docs][6] *(recommended by @petercassetta)*
 - [Code School's "Shaping Up with Angular.js" Course][27] *(knowledge of javascript basics expected)*
+- [W3Schools' HTML5 Tutorial][32] *(also has great CSS and JS tutorials)*
 
 ---
 
@@ -19,6 +20,7 @@ A simple list of resources that might be useful to us (TXST CS students) since t
 - [Lynda's "Up and Running with Python"][8]
 - [Python Docs][9]
 - [Code School's "Try Python" Course][25]
+- [CodingBat's Python Excersises][33] *Simple excersises for Python beginners*
 
 ---
 
@@ -43,6 +45,8 @@ A simple list of resources that might be useful to us (TXST CS students) since t
 
 ### You might also want to learn Git if you're going to be working in a group:
 - [Github][13] *(can also download the client if you don't like the terminal)*
+- [Gitlab][35]
+- [Bitbucket][36]
 - [Codecademy's Git Course][14]
 - [Github's "Try Git!"][15] short tutorial 
 - [Git Docs][16]
@@ -55,6 +59,7 @@ A simple list of resources that might be useful to us (TXST CS students) since t
 - [Notepad++][18]
 - [Brackets][19]
 - [Atom][20]
+- [Visual Studio Code][34]
 - [Komodo Edit][21]
 - [JetBrain's Webstorm IDE][22] *(google "jetbrains student" for free licenses)*
 - [JetBrain's PyCharm IDE][23]
@@ -95,3 +100,8 @@ And if you haven't already *(I would honestly be surprised)*, become **best frie
 [29]: https://www.codeschool.com/courses/try-git "Code School - Try Git"
 [30]: https://www.codecademy.com/learn/learn-sql "Codecadmey - Learn SQL"
 [31]: https://www.codecademy.com/learn/sql-table-transformation "Codecademy - Intermediate SQL"
+[32]: http://www.w3schools.com/html/ "w3Schools HTML5 Tutorial"
+[33]: http://codingbat.com/python "CodingBat Python"
+[34]: https://code.visualstudio.com/ "Visual Studio Code"
+[35]: https://about.gitlab.com/ "Gitlab"
+[36]: https://bitbucket.org/ "Bitbucket"
