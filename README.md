@@ -24,7 +24,12 @@ A simple list of resources that might be useful to us (TXST CS students) since t
 
 ---
 
-### Django:
+### Flask - Python:
+- [Flask][40]
+
+---
+
+### Django - Python:
 - ["Up and Running with Python and Django"][10] *(knowledge of python basics expected)*
 - [Podorozhny's Resources tab in TRACS][11]
 - [Django Docs][12]
@@ -67,6 +72,14 @@ A simple list of resources that might be useful to us (TXST CS students) since t
 
 ---
 
+### RESTful API
+- [RESTful API][37]
+- [Django REST Framework][38]
+- [Flask RESTful][39]
+
+
+---
+
 And if you haven't already *(I would honestly be surprised)*, become **best friends** with StackOverflow, Google, and forums like Reddit for error checking and figuring out "how do I..." problems.
 
 [1]: https://www.freecodecamp.com "FreeCodeCamp"
@@ -105,3 +118,7 @@ And if you haven't already *(I would honestly be surprised)*, become **best frie
 [34]: https://code.visualstudio.com/ "Visual Studio Code"
 [35]: https://about.gitlab.com/ "Gitlab"
 [36]: https://bitbucket.org/ "Bitbucket"
+[37]: http://www.restapitutorial.com/ "RESTful API"
+[38]: http://www.django-rest-framework.org/ "Django REST Framework"
+[39]: http://flask-restful-cn.readthedocs.io/en/0.3.5/ "Flask RESTful"
+[40]: http://flask.pocoo.org/ "Flask"
